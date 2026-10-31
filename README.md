@@ -1,8 +1,6 @@
 # Diabetes-Prediction-Using-Logistic-Regression
 Diabetes prediction using Machine Learning
 
-# Diabetes Prediction Using Logistic Regression
-
 ## Project Description
 This project predicts whether a person is likely to have diabetes using Machine Learning.
 
